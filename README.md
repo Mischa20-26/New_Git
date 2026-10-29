@@ -1,3 +1,5 @@
 # New_Git
 
-new-git
+new-git/repo
+
+
